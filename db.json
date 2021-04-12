@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 12,
+      "text": "Amar a María de mi vida",
+      "day": "Todo el día "
+    },
+    {
+      "id": 13,
+      "text": "Estudiar React",
+      "day": "En las noches antes de acostarme"
+    },
+    {
+      "id": 14,
+      "text": "Estudiar fantasmas",
+      "day": "En las noches depues de react"
+    },
+    {
+      "text": "Nueva tarea",
+      "day": "mañana",
+      "id": 15
+    },
+    {
+      "text": "Nuevo Tasker",
+      "day": "Daos",
+      "id": 16
+    },
+    {
+      "text": "Bulm",
+      "day": "Blom",
+      "id": 17
+    }
+  ]
+}
